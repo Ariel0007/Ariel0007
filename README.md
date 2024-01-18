@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ariel0007
-- 👀 I’m interested in Machine Learning and AI in video and audio production.
-- 🌱 I’m currently learning at MDC Miami, I am a professional director/editor.
+- 👀 I’m interested in Machine Learning and AI in video and audio production. I am a professional Director/Editor.
+- 🌱 I’m currently learning AI at MDC Miami, I am a professional director/editor.
 - 💞️ I’m looking to collaborate on learning AI.
 - 📫 How to reach me :ariel.rubalcaba001@mymdc.net, or ariel65@mac.com
 
